@@ -1,0 +1,15 @@
+﻿@model Menu
+
+<div class="col-lg-4 col-md-4 col-sm-6">
+    <a href="~/images/@Model.ImageName" class="fh5co-card-item image-popup">
+        <figure>
+            <div class="overlay"><i class="ti-plus"></i></div>
+            <img src="~/images/@Model.ImageName" sizes="35x35px" alt="Image" class="img-responsive">
+        </figure>
+        <div class="fh5co-text">
+            <h2>@Model.Name</h2>
+            <p>@Model.Description</p>
+            <p><span class="price cursive-font">@Model.Price AMD</span></p>
+        </div>
+    </a>
+</div>

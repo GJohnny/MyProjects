@@ -1,0 +1,7 @@
+D:\Visual Studio 2017\Projects\BootCamp\Home\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.exe.config
+D:\Visual Studio 2017\Projects\BootCamp\Home\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.exe
+D:\Visual Studio 2017\Projects\BootCamp\Home\ProducerConsumer\ProducerConsumer\bin\Debug\ProducerConsumer.pdb
+D:\Visual Studio 2017\Projects\BootCamp\Home\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csprojAssemblyReference.cache
+D:\Visual Studio 2017\Projects\BootCamp\Home\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.csproj.CoreCompileInputs.cache
+D:\Visual Studio 2017\Projects\BootCamp\Home\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.exe
+D:\Visual Studio 2017\Projects\BootCamp\Home\ProducerConsumer\ProducerConsumer\obj\Debug\ProducerConsumer.pdb

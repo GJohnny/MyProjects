@@ -1,0 +1,11 @@
+﻿@model IEnumerable<Menu>
+<div class="gtco-section">
+    <div class="gtco-container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                @await Html.PartialAsync("_MenuItem", item)
+            }
+        </div>
+    </div>
+</div>

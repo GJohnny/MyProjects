@@ -1,0 +1,66 @@
+﻿@model Menu
+@{
+    ViewBag.Title = "Add Menu Item";
+}
+<header id="gtco-header" class="gtco-cover gtco-cover-md" role="banner"
+        style="background-image: url(~/images/img_bg_1.jpg)" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="gtco-container">
+        <div class="row">
+            <div class="col-md-12 col-md-offset-0 text-left">
+                <div class="row row-mt-15em">
+                    <div class="col-md-7 mt-text animate-box" data-animate-effect="fadeInUp">
+                        <span class="intro-text-small">
+                            Hand-crafted by <a href="http://gettemplates.co" target="_blank">GetTemplates.co</a>
+                        </span>
+                        <h1 class="cursive-font">All in good taste!</h1>
+                    </div>
+                    <div class="col-md-4 col-md-push-1 animate-box" data-animate-effect="fadeInRight">
+                        <div class="form-wrap">
+                            <div class="tab">
+                                <div class="tab-content">
+                                    <div class="tab-content-inner active" data-content="signup">
+                                        <h3 class="cursive-font">Add Menu Item</h3>
+
+                                        <form asp-action="Add" asp-controller="Home" method="post">
+                                            <div class="form-group">
+                                                <label asp-for="Name"></label>
+                                                <div><span asp-validation-for="Name" class="text-danger"></span></div>
+                                                <input asp-for="Name" class="form-control" />
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Description"></label>
+                                                <div><span asp-validation-for="Description" class="text-danger"></span></div>
+                                                <input asp-for="Description" class="form-control" />
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Price"></label>
+                                                <div><span asp-validation-for="Price" class="text-danger"></span></div>
+                                                <input asp-for="Price" class="form-control" />
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="Category"></label>
+                                                <div><span asp-validation-for="Category" class="text-danger"></span></div>
+                                                <input asp-for="Category" class="form-control" />
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="ImageName"></label>
+                                                <div><span asp-validation-for="ImageName" class="text-danger"></span></div>
+                                                <input asp-for="ImageName" class="form-control" />
+                                            </div>
+                                            <div class="form-group">
+                                                <label asp-for="IsPopular"></label>
+                                                <input asp-for="IsPopular" type="checkbox" />
+                                            </div>
+                                            <input class="btn btn-primary" type="submit" name="Save" value="Save" />
+                                        </form>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>

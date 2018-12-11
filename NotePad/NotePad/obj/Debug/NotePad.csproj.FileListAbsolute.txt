@@ -1,0 +1,8 @@
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\bin\Debug\NotePad.exe.config
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\obj\Debug\NotePad.csprojResolveAssemblyReference.cache
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\bin\Debug\NotePad.exe
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\bin\Debug\NotePad.pdb
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\obj\Debug\NotePad.exe
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\obj\Debug\NotePad.pdb
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hovo\Documents\Visual Studio 2015\Projects\BootCamp\Class\NotePad\NotePad\bin\Debug\Newtonsoft.Json.xml
